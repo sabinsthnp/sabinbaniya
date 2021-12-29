@@ -6,16 +6,16 @@
 <br/>
 
 <h2 align="center"><strong> 🙋‍♂️ About Me</strong></h2>
-<ul align="center" style="list-style:none">
+<div align="center">
 
-<li> 🌱 I’m currently learning <strong>E2E testing with Cypress</strong></li>
+<p> 🌱 I’m currently learning <strong>E2E testing with Cypress</strong></p>
 
-<li> 👯 I’m looking to contribute to <strong>OpenSource Projects</strong></li>
+<p> 👯 I’m looking to contribute to <strong>OpenSource Projects</strong></p>
 
-<li> 👨‍💻 All of my projects are available in <a href="https://portfolio.sabinbaniya.com.np">My Portfolio Website</a> </li>
+<p> 👨‍💻 All of my projects are available in <a href="https://portfolio.sabinbaniya.com.np">My Portfolio Website</a> </p>
 
-<li>⚡ Trying to make my life less buggier. </li>
-</ul>
+<p>⚡ Trying to make my life less buggier. </p>
+</div>
   
 <br/>
 
@@ -65,7 +65,7 @@
 <h2 align="center"> Connect with me:
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/sabinbaniya/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/sabin-baniya-567403215/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/sabinbaniya_" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a></a>
 
 </p></h2>
