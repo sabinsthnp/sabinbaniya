@@ -1,14 +1,14 @@
 <p align="center"><img width="150" height="auto" src="https://i.imgur.com/PdXjMS9.png" height="175px"/></p>
 
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sabin</h1>
-<h3 align="center">I'm currently a software engineering student learning and exploring about the web develpment world.</h3>
+<h3 align="center">I'm 2nd year a software engineering student learning and exploring about the web develpment world.</h3>
 
 <br/>
 
 <h2 align="center"><strong> 🙋‍♂️ About Me</strong></h2>
 <div align="center">
 
-<p> 🌱 I’m currently learning <strong>E2E testing with Cypress</strong></p>
+<p> 🌱 I’m currently learning <strong>Node JS</strong></p>
 
 <p> 👯 I’m looking to contribute to <strong>OpenSource Projects</strong></p>
 
