@@ -12,7 +12,7 @@
 
 <li> 👯 I’m looking to contribute to <strong>OpenSource Projects</strong></li>
 
-<li> 👨‍💻 All of my projects are available in <a href="https://sabinbaniya.com.np">My Portfolio Website</a> </li>
+<li> 👨‍💻 All of my projects are available in <a href="https://portfolio.sabinbaniya.com.np">My Portfolio Website</a> </li>
 
 <li>⚡ Trying to make my life less buggier. </li>
 </ul>
@@ -65,8 +65,8 @@
 <h2 align="center"> Connect with me:
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a></a>
+<a href = "https://www.linkedin.com/in/sabinbaniya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/sabinbaniya_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a></a>
 
 </p></h2>
 
