@@ -65,8 +65,8 @@
 <h2 align="center"> Connect with me:
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/sabinbaniya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sabinbaniya_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a></a>
+<a href = "https://www.linkedin.com/in/sabinbaniya/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/sabinbaniya_" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a></a>
 
 </p></h2>
 
