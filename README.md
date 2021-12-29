@@ -14,7 +14,6 @@
 
 <p> 👨‍💻 All of my projects are available in <a href="https://portfolio.sabinbaniya.com.np">My Portfolio Website</a> </p>
 
-<p>⚡ Trying to make my life less buggier. </p>
 </div>
   
 <br/>
