@@ -8,7 +8,7 @@
 <h2 align="center"><strong> 🙋‍♂️ About Me</strong></h2>
 <div align="center">
 
-<p> 🌱 I’m currently learning <strong>Node JS</strong></p>
+<p> 🌱 I’m currently learning <strong>TypeScript</strong></p>
 
 <p> 👯 I’m looking to contribute to <strong>OpenSource Projects</strong></p>
 
